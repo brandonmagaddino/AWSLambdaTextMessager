@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\bin\Release\netcoreapp2.1\AWSTextMessaging.deps.json
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\bin\Release\netcoreapp2.1\AWSTextMessaging.runtimeconfig.json
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\bin\Release\netcoreapp2.1\AWSTextMessaging.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\bin\Release\netcoreapp2.1\AWSTextMessaging.dll
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\bin\Release\netcoreapp2.1\AWSTextMessaging.pdb
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\obj\Release\netcoreapp2.1\AWSTextMessaging.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\obj\Release\netcoreapp2.1\AWSTextMessaging.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\obj\Release\netcoreapp2.1\AWSTextMessaging.AssemblyInfo.cs
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\obj\Release\netcoreapp2.1\AWSTextMessaging.dll
+\\Mac\Home\Desktop\AWSLambdaTextMessager\AWSTextMessaging\obj\Release\netcoreapp2.1\AWSTextMessaging.pdb
